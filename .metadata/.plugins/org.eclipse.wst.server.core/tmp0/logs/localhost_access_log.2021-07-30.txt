@@ -1,0 +1,12 @@
+192.168.0.16 - - [30/Jul/2021:10:40:53 -0300] "GET / HTTP/1.1" 404 763
+192.168.0.16 - - [30/Jul/2021:10:41:10 -0300] "GET /HNAP1/ HTTP/1.1" 404 773
+127.0.0.1 - - [30/Jul/2021:18:27:38 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [30/Jul/2021:18:27:54 -0300] "GET /gerenciador/NovaEmpresa HTTP/1.1" 200 59
+0:0:0:0:0:0:0:1 - - [30/Jul/2021:18:28:08 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [30/Jul/2021:18:36:17 -0300] "GET /gerenciador/NovaEmpresa?nome=Caelum HTTP/1.1" 200 59
+0:0:0:0:0:0:0:1 - - [30/Jul/2021:18:36:45 -0300] "GET /gerenciador/NovaEmpresa?nome=Caelum HTTP/1.1" 200 59
+0:0:0:0:0:0:0:1 - - [30/Jul/2021:18:36:52 -0300] "GET /gerenciador/NovaEmpresa?nome=Caelum HTTP/1.1" 200 59
+0:0:0:0:0:0:0:1 - - [30/Jul/2021:18:41:24 -0300] "GET /gerenciador/NovaEmpresa?nome=Caelum HTTP/1.1" 500 1452
+127.0.0.1 - - [30/Jul/2021:18:50:38 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [30/Jul/2021:18:50:55 -0300] "GET /gerenciador/NovaEmpresa?nome=Caelum HTTP/1.1" 500 1452
+0:0:0:0:0:0:0:1 - - [30/Jul/2021:18:54:05 -0300] "GET /gerenciador/NovaEmpresa?nome=Caelum HTTP/1.1" 200 66
